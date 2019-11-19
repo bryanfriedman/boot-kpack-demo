@@ -8,7 +8,7 @@
 		<version>2.1.9.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.seroter</groupId>
+	<groupId>com.kubecon2019</groupId>
 	<artifactId>boot-kpack-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>boot-kpack-demo</name>
